@@ -5,19 +5,12 @@
 - 可控制贪吃蛇、侧边栏、技能的开关。  
 - 支持后台**多主题切换**，细致修改所有主题细节。  
 
->一个增值版本，如果你觉得自己不需要完全可以使用免费开源的html版本
->如果需要，请小小赞助一下作者
->售价：20元 
-
 
 >**演示站**：[https://zyyo.cc](https://zyyo.cc)  
 >**后台**：[https://zyyo.cc/admin](https://zyyo.cc/admin)  
 >**账号**：admin  
 >**密码**：123456  
 
-## 联系作者
-> QQ：3509679579  
-> QQ交流群：560938976  
 
 ![主页截图](https://zyyo.net/usr/picture/homepage.png)  
 
